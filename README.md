@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Research interests: 
+- Transcriptomics
+- CNS infections and inflammatory/autoimmune disorders
+- Epilepsy

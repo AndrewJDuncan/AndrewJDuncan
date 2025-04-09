@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **AndrewJDuncan/AndrewJDuncan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am an epilepsy neurologist and PhD student in the Ramachandran Lab at The Peter Doherty institute / University of Melbourne.
+
 Research interests: 
-- Transcriptomics
-- CNS infections and inflammatory/autoimmune disorders
+- Host transcriptomics in human CNS infectious and inflammatory/autoimmune disorders
 - Epilepsy
+
+<a href="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif">
+  <img height="150" src="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif"/>
+</a>

@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 I am an epilepsy neurologist and PhD student in the Ramachandran Lab at The Peter Doherty institute / University of Melbourne.
 
+
+```yaml
 Research interests: 
 - Host transcriptomics in human CNS infectious and inflammatory/autoimmune disorders
+- Next-generation sequencing for the diagnosis of encephalitis and CNS infections
 - Epilepsy
+- Endotypes in autoimmune CNS disease
+```
 
-<a href="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif">
+<p align="center"><a href="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif">
   <img height="150" src="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif"/>
 </a>
+</p>

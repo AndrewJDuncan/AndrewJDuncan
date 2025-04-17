@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an epilepsy neurologist and PhD student in the Ramachandran Lab at The Peter Doherty institute / University of Melbourne.
-
-
 ```yaml
+I am an epilepsy neurologist and a PhD student in the Ramachandran Lab at The Peter Doherty institute / University of Melbourne.
+
 Research interests: 
 - Host transcriptomics in human CNS infectious and inflammatory/autoimmune disorders
 - Next-generation sequencing for the diagnosis of encephalitis and CNS infections

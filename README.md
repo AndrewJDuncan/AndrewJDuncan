@@ -16,13 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-I am an epilepsy neurologist and a PhD student in the Ramachandran Lab at The Peter Doherty institute / University of Melbourne.
+I am an epilepsy neurologist and a PhD student
 
 Research interests: 
 - Host transcriptomics in human CNS infectious and inflammatory/autoimmune disorders
 - Next-generation sequencing for the diagnosis of encephalitis and CNS infections
 - Epilepsy
 - Endotypes in autoimmune CNS disease
+
+Affiliations:
+# Ramachandran Lab, The Peter Doherty Institute / University of Melbourne. 
+# Neurosciences department, St Vincent's Hospital Melbourne
+
 ```
 
 <p align="center"><a href="https://media.tenor.com/onQqPINLpucAAAAM/brain-dance.gif">

@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 I am an epilepsy neurologist and a PhD student
 
 Research interests: 
-- Host transcriptomics in human CNS infectious and inflammatory/autoimmune disorders
+- Host transcriptomics as a diagnostic biomarker in human CNS infectious and inflammatory/autoimmune disorders
 - Next-generation sequencing for the diagnosis of encephalitis and CNS infections
+- Translational application of transcriptomics
 - Epilepsy
 - Endotypes in autoimmune CNS disease
 
 Affiliations:
-# Ramachandran Lab, The Peter Doherty Institute / University of Melbourne. 
-# Neurosciences department, St Vincent's Hospital Melbourne
+# Ramachandran Lab, The Peter Doherty Institute / University of Melbourne.  
+# Neurosciences department, St Vincent's Hospital Melbourne.  
+# Neurology department, Royal Melbourne Hospital (honorary)
+# Peter MacCallum Cancer Centre (honorary)
 
 ```
 

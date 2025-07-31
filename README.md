@@ -28,8 +28,8 @@ Research interests:
 Affiliations:
 # Ramachandran Lab, The Peter Doherty Institute / University of Melbourne.  
 # Neurosciences department, St Vincent's Hospital Melbourne.  
-# Neurology department, Royal Melbourne Hospital (honorary)
-# Peter MacCallum Cancer Centre (honorary)
+# Neurology department, Royal Melbourne Hospital (honorary).
+# Peter MacCallum Cancer Centre (honorary).
 
 ```
 
